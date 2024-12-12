@@ -12,11 +12,11 @@ pip install requirements.txt
 ```
 python train.py
 ```
-5. **Evaluate the Model**
+4. **Evaluate the Model**
 ```
 python evaluate.py
 ```
-7. **Run the Streamlit App
+5. **Run the Streamlit App**
 ```
 streamlit run app.py
 ```
