@@ -5,12 +5,18 @@ This project classifies images into various categories using CNN on the CIFAR-10
 ## Usage
 
 1. **Install Dependencies**
-``bash
+```
 pip install requirements.txt
-``
+```
 3. **Train the Model**
-``python train.py``
-4. **Evaluate the Model**
-``python evaluate.py``
-5. **Run the Streamlit App
-``streamlit run app.py``
+```
+python train.py
+```
+5. **Evaluate the Model**
+```
+python evaluate.py
+```
+7. **Run the Streamlit App
+```
+streamlit run app.py
+```
